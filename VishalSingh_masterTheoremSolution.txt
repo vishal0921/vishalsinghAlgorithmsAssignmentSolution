@@ -1,0 +1,5 @@
+a) O(n^log 2[base 3])
+b) O(n^log 8[base 64])
+c) O(n^n)
+d) O(n^log 3[base 3])
+e) O(n^log 3[base 7])
